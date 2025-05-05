@@ -18,6 +18,7 @@ will write this soon (hopefully)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2386BE43?style=plastic&logo=Linux-Mint&logoColor=white)](https://en.wikipedia.org/wiki/Linux_Mint)
 [![Intel Core i5-6200U](https://img.shields.io/badge/Intel_Core_i5-6200U-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/88193/intel-core-i56200u-processor-3m-cache-up-to-2-80-ghz/specifications.html)
 
-### Phone:
+### Mobile Devices:
 [![iPhone 11](https://img.shields.io/badge/iPhone-11-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111865])
+[![iPad 9th Generation](https://img.shields.io/badge/iPad-9th-Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111898])
 </details>
