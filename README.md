@@ -20,5 +20,5 @@ will write this soon (hopefully)
 
 ### Mobile Devices:
 [![iPhone 11](https://img.shields.io/badge/iPhone-11-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111865])
-[![iPad 9th Generation](https://img.shields.io/badge/iPad-9th-Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111898])
+[![iPad 9th Generation](https://img.shields.io/badge/iPad_9th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111898])
 </details>
