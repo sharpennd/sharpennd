@@ -1,7 +1,6 @@
-<details>
-  <summary>About Me</summary>
-  soon
-</details>
+## About Me
+
+will write this soon (hopefully)
 
 
 <details>
