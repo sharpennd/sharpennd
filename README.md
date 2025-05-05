@@ -1,7 +1,8 @@
 ## About Me
 
-will write this soon (hopefully)
+Hi, I'm Grey. I specialise in Python, JavaScript, HTML, CSS and Lua; and I'm currently trying to learn Java. I also collect things such as computers/laptops, consoles, games and even DVDs and CDs!
 
+<sub><sup>I highly suggest you check out the info below and to also look at my personal website link on my profile! :D</sup></sup>
 
 <details>
   <summary>Technical Specifications</summary>
