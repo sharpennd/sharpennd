@@ -20,11 +20,11 @@ Hi, I'm Grey. I specialise in Python, JavaScript, HTML, CSS and Lua; and I'm cur
 [![Intel Core i5-6200U](https://img.shields.io/badge/Intel_Core_i5-6200U-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/88193/intel-core-i56200u-processor-3m-cache-up-to-2-80-ghz/specifications.html)
 
 ### NAS
-[![Toshiba Satillite C50-1JN](https://img.shields.io/badge/Toshiba_Satillite-C50_1JN-FF0000?style=plastic&logo=Toshiba&logoColor=black)](https://en.wikipedia.org/wiki/Toshiba_Satellite_C_series)
+[![Toshiba Satillite C50-1JN](https://img.shields.io/badge/Toshiba_Satillite-C50-1JN-FF0000?style=plastic&logo=Toshiba&logoColor=black)](https://en.wikipedia.org/wiki/Toshiba_Satellite_C_series)
 [![Debian](https://img.shields.io/badge/Debian_Linux-AA1D33?style=plastic&logo=Debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
-[![Intel Celeron N2820](https://img.shields.io/badge/Intel_Celeron_N2820-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/79052/intel-celeron-processor-n2820-1m-cache-up-to-2-39-ghz/specifications.html)
+[![Intel Celeron N2820](https://img.shields.io/badge/Intel_Celeron-N2820-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/79052/intel-celeron-processor-n2820-1m-cache-up-to-2-39-ghz/specifications.html)
 
 ### Mobile Devices:
 [![iPhone 11](https://img.shields.io/badge/iPhone-11-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111865])
-[![iPad 9th Generation](https://img.shields.io/badge/iPad_9th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111898])
+[![iPad 9th Generation](https://img.shields.io/badge/iPad-9th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)]([https://support.apple.com/en-gb/111898])
 </details>
