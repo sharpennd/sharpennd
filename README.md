@@ -20,8 +20,8 @@ Hi, I'm Grey. I specialise in Python, JavaScript, HTML, CSS and Lua; and I'm cur
 [![Intel Core i5-6200U](https://img.shields.io/badge/Intel_Core_i5-6200U-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/88193/intel-core-i56200u-processor-3m-cache-up-to-2-80-ghz/specifications.html)
 
 ### NAS
-[![Toshiba Satillite C50-1JN](https://img.shields.io/badge/Toshiba-FF0000?style=plastic&logo=Toshiba&logoColor=black)](https://en.wikipedia.org/wiki/Toshiba_Satellite_C_series)
-[![Debian](https://img.shields.io/badge/Debian_Linux-%A81D33?style=plastic&logo=Debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
+[![Toshiba Satillite C50-1JN](https://img.shields.io/badge/Toshiba_Satillite_C50-1JN-FF0000?style=plastic&logo=Toshiba&logoColor=black)](https://en.wikipedia.org/wiki/Toshiba_Satellite_C_series)
+[![Debian](https://img.shields.io/badge/Debian_Linux-AA1D33?style=plastic&logo=Debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
 [![Intel Celeron N2820](https://img.shields.io/badge/Intel_Celeron_N2820-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/79052/intel-celeron-processor-n2820-1m-cache-up-to-2-39-ghz/specifications.html)
 
 ### Mobile Devices:
