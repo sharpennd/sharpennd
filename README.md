@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sharpennd&color=blueviolet)
+
 ## About Me
 
 Hi, I'm Grey. I specialise in Python, JavaScript, HTML, CSS and Lua; and I'm currently trying to learn Java. I also collect things such as computers/laptops, consoles, games and even DVDs and CDs!
